@@ -1,0 +1,44 @@
+.container-one {
+    background-image: url('./img/background-img.png');
+    height: 100%;
+    width: 100%;
+    margin-top: -5%;
+  }
+
+.container-two {
+    background-image: url('./img/background-2.png');
+    height: 100%;
+    width: 100%;
+    margin-top: -5%;
+}
+
+  .page-one {
+    text-align: center;
+    padding-top: 10%;
+  }
+
+  h1 {
+    font-family: cursive;
+    font-size: 64px;
+    letter-spacing: 5px;
+    color: #aa7031;
+  }
+
+  h2 {
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    padding-bottom: 10%;
+    color: #aa7031;
+  }
+
+  .flower-img {
+    text-align: center;
+    margin-top: 5%;
+    padding-bottom: 10%;
+  }
+
+  .profile-img {
+   text-align: center;
+   padding-top: 15%;
+  }
+
